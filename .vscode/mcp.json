@@ -1,0 +1,8 @@
+{
+  "servers": {
+    " Figma MCP": {
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "figma-developer-mcp", "git add .vscode/mcp.json", "--stdio"]
+    }
+  }
+}
